@@ -1,9 +1,12 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Oracle
+  position: DevOps Engineer
+  duration: Aug, 2021 &mdash; Present
+  summary: •	Reducing the cost each month by eliminating unnecessary servers and consolidating database.
+  •	Involvement with the Cloud network team for Network solutions and Architectural/Technical Designs and also involved in the QA server team for QA works of the Virtual machines.
+  •	Troubleshooting Issues in Kubernetes environments such as application containers issues, pod-to-pod communication failures, DNS resolution problems, cluster scaling operations, investigating security-related logs.
+  •	Monitoring and alerting systems, debugging authentication failures and monitor node health. (Grafana, Prometheus Alert manager)	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council

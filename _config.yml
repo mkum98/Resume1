@@ -25,7 +25,7 @@ display_header_contact_info:    "false"
 
 resume_header_intro: "<p>As a DevOps Engineer at Oracle, I contribute to the continuous delivery and improvement of educational resources and learning experiences for Oracle University students. I work with a technical team to automate and optimize development and release processes, using tools such as Jenkins, Ansible, Kubernetes, and OCI.
 
-I also have a strong background in SCCM administration and management, having performed installation, evaluation, maintenance, and problem resolution for the SCCM server and DPs, as well as release management deployments to over 35000 PCs globally in my previous role at Mphasis. I have multiple certifications in AWS and Oracle Cloud Infrastructure, and I am proficient in Python, Shell Scripting, SQL, and Selenium automation. I am passionate about learning new technologies and applying them to solve real-world problems, especially in the fields of ML and AI.</p>"
+I also have a strong background in SCCM administration and management, having performed installation, evaluation, maintenance, and problem resolution for the SCCM server and DPs, as well as release management deployments to over 60,000 PCs globally in my previous role at Mphasis. I have multiple certifications in AWS, Oracle Cloud and Linux, and I am proficient in Python, Shell Scripting, SQL, and Selenium automation. I am passionate about learning new technologies and applying them to solve real-world problems, especially in the fields of DevOps, Data, ML and AI.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -47,14 +47,14 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/mkum98"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/manishk98"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_website_url:           "https://mkum98.github.io/Resume1/"
+  #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
