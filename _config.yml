@@ -23,7 +23,9 @@ resume_contact_telephone:       "+91 7760275082 / 8618231316"
 # resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>As a DevOps Engineer at Oracle, I contribute to the continuous delivery and improvement of educational resources and learning experiences for Oracle University students. I work with a technical team to automate and optimize development and release processes, using tools such as Jenkins, Ansible, Kubernetes, and OCI.
+
+I also have a strong background in SCCM administration and management, having performed installation, evaluation, maintenance, and problem resolution for the SCCM server and DPs, as well as release management deployments to over 35000 PCs globally in my previous role at Mphasis. I have multiple certifications in AWS and Oracle Cloud Infrastructure, and I am proficient in Python, Shell Scripting, SQL, and Selenium automation. I am passionate about learning new technologies and applying them to solve real-world problems, especially in the fields of ML and AI.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
