@@ -21,7 +21,7 @@ resume_contact_telephone:       "+91 7760275082 / 8618231316"
 # resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 # resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>DevOps Engineer at Oracle, driving continuous improvement for Oracle University. Good in Jenkins, Ansible, Kubernetes, and OCI, I optimize development and release processes. Expertise in SCCM administration, managing installations, evaluations, and global release deployments for 60,000+ PCs at Mphasis. Certified in AWS, Oracle Cloud, and Linux, skilled in Python, Shell Scripting, SQL, and Selenium. Enthusiastic about applying evolving technologies to solve challenges in DevOps, Data, ML, and AI.</p>"
 
